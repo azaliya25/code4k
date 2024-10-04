@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.diva {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+a {
+    color: black;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.num1,
+.num2,
+.num3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50px;
+    gap: 20px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 25px;
+    color: chocolate;
+}
+
+.pr2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50px;
+    gap: 5px;
+}
+
+.pr2p{
+    margin-top: 50px;
+}
