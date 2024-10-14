@@ -13,8 +13,7 @@
         <a href="pr1.php">практика 1</a>
         <a href="pr2.php">практика 2</a>
         <a href="pr3.php">практика 3</a>
-        <!-- <a href="pr4.php">практика 4</a>
-        <a href="pr5.php">практика 5</a> -->
+        <a href="pr5.php">практика 5</a>
     </div>
 </body>
 
